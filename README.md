@@ -1,6 +1,7 @@
 🎮 Smart Rehab : AI- Powered Gamified Physiotherapy System
 
 **PPT LINK**: https://docs.google.com/presentation/d/1uQ7eZVSqoBkCOuFI6G35DP9UNb1IGg_-/edit?usp=sharing&ouid=106386376938120088072&rtpof=true&sd=true
+
 🧠 Problem Statement
 
 Traditional physiotherapy for stroke, injury, or surgery recovery is often monotonous and lacks real-time feedback, leading to low patient motivation and slow recovery. In-person therapy can also be costly and inaccessible, especially in remote areas. There's a need for an engaging, affordable solution that provides personalized exercises with real-time feedback.
