@@ -1,5 +1,6 @@
 🎮 Smart Rehab : AI- Powered Gamified Physiotherapy System
 
+**PPT LINK**: https://docs.google.com/presentation/d/1uQ7eZVSqoBkCOuFI6G35DP9UNb1IGg_-/edit?usp=sharing&ouid=106386376938120088072&rtpof=true&sd=true
 🧠 Problem Statement
 
 Traditional physiotherapy for stroke, injury, or surgery recovery is often monotonous and lacks real-time feedback, leading to low patient motivation and slow recovery. In-person therapy can also be costly and inaccessible, especially in remote areas. There's a need for an engaging, affordable solution that provides personalized exercises with real-time feedback.
@@ -76,13 +77,26 @@ Doctors will be able to log in, assign patients, and monitor progress through se
 - Piano Master – A rhythm-based game where users tap virtual piano keys, helping with finger precision, timing, and coordination.
 
 Tech structure:
-![Image](https://github.com/user-attachments/assets/032a3c80-78fd-4be0-be2b-9c2af38c6efa)
+https://photos.app.goo.gl/p6AB9ny8id2guavH8
 
 🧑‍⚕User Roles:
 
 - Patient: Plays games and follows personalized exercise routines
 
 - Doctor: Monitors patient activity, assigns tasks, tracks performance via dashboard
+
+**Describe your Dependencies/ Show Stopper here**:
+
+1. Real-Time Hand Tracking: Accuracy and latency of hand tracking (TensorFlow.js/MediaPipe) are crucial for effective feedback.
+
+2. Webcam Performance: Smooth webcam feed is required for correct hand tracking and game interaction.
+
+3. Backend Scalability: The backend must handle multiple users and real-time data processing without slowdowns.
+
+4. Frontend-Backend Integration: Smooth communication between the frontend and backend is essential for accurate data processing.
+
+5. Data Security: Proper encryption and security measures are needed to protect sensitive patient data.
+
 
 📊 Future Improvements:
 
@@ -94,12 +108,8 @@ Tech structure:
 
 Screenshots of The Work: 
 
-1.![Image](https://github.com/user-attachments/assets/0b1f970c-8d43-4e21-a320-23e64517e9c9)
-  
-2. ![Image](https://github.com/user-attachments/assets/f7a14fea-32db-47e9-8d99-6c8b17894ce7)
-
-3. ![Image](https://github.com/user-attachments/assets/0791a7dd-245a-4298-a8b1-9646a5722c97)
+https://drive.google.com/drive/folders/1i_7SdnE15dYO8e5D-Kpmb6VifKpJ9AcV?usp=sharing
 
 Live demo of the video:
 
-https://github.com/user-attachments/assets/e16f3a07-c8ea-400a-8986-9b115826d077
+https://drive.google.com/file/d/1ilg4l-QE3JxxMV1Ybg2HC7B2Npb2IkPN/view?usp=sharing
