@@ -1,7 +1,7 @@
-![WhatsApp Image 2025-04-13 at 14 56 07_58deaff3](https://github.com/user-attachments/assets/6f9a83f5-6496-4f5b-96d0-201ddc266f03)
+Video link: 
+
 
 # 🕹 RehabGamer: Gamified Rehabilitation Web Portal
-
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
