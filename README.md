@@ -6,7 +6,7 @@ Video link: https://drive.google.com/file/d/1HMaaA7MIxyqLdxJsnzxsrY2wX7REmVOd/vi
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
 
-RehabGamer is a full-stack gamified rehabilitation portal designed to assist patients with interactive therapy using hand tracking games. The platform offers role-based access for both patients and healthcare providers, complete with dashboards for tracking progress and performance metrics in real-time.
+RehabGamer is a full-stack gamified rehabilitation portal designed to assist patients with interactive therapy using hand tracking games. This platform offers a role-based access for both patients and healthcare providers, complete with dashboards for tracking progress and performance metrics in real-time.
 
 ## 📋 Table of Contents
 
